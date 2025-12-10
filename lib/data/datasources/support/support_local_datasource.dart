@@ -1,5 +1,5 @@
-import 'package:prac11/domain/entities/support/faq_item_model.dart';
-import 'package:prac11/domain/entities/support/feedback_message_model.dart';
+import 'package:prac11/core/models/support/faq_item_model.dart';
+import 'package:prac11/core/models/support/feedback_message_model.dart';
 
 class SupportLocalDataSource {
   final List<FaqItem> _faqItems = [

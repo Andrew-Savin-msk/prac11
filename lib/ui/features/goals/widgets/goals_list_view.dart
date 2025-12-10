@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_mobx/flutter_mobx.dart';
-import 'package:prac11/domain/entities/goals/goal_model.dart';
+import 'package:prac11/core/models/goals/goal_model.dart';
 import 'package:prac11/ui/features/goals/widgets/goal_card.dart';
 import 'package:prac11/ui/features/goals/state/stores/goals_list/goals_list_screen_store.dart';
 

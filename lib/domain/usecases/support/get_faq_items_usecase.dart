@@ -1,4 +1,4 @@
-import 'package:prac11/domain/entities/support/faq_item_model.dart';
+import 'package:prac11/core/models/support/faq_item_model.dart';
 import 'package:prac11/domain/repositories/support/support_repository.dart';
 
 class GetFaqItemsUseCase {

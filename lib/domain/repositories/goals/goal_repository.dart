@@ -1,4 +1,4 @@
-import 'package:prac11/domain/entities/goals/goal_model.dart';
+import 'package:prac11/core/models/goals/goal_model.dart';
 
 abstract class GoalRepository {
   List<Goal> getGoals();

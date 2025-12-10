@@ -1,4 +1,4 @@
-import 'package:prac11/domain/entities/activity_log/log_entry_model.dart';
+import 'package:prac11/core/models/activity_log/log_entry_model.dart';
 
 class ActivityLogLocalDataSource {
   final List<LogEntry> _entries = [];

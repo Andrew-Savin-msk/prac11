@@ -1,4 +1,4 @@
-import 'package:prac11/domain/entities/achievements/achievement_model.dart';
+import 'package:prac11/core/models/achievements/achievement_model.dart';
 
 class AchievementLocalDataSource {
   final List<Achievement> _achievements = [

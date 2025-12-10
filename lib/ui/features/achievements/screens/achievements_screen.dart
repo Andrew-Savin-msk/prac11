@@ -4,7 +4,7 @@ import 'package:flutter_mobx/flutter_mobx.dart';
 import 'package:cached_network_image/cached_network_image.dart';
 import 'package:prac11/core/di/injection.dart';
 import 'package:prac11/ui/features/achievements/state/stores/achievements_screen/achievements_screen_store.dart';
-import 'package:prac11/domain/entities/achievements/achievement_model.dart';
+import 'package:prac11/core/models/achievements/achievement_model.dart';
 import 'package:prac11/domain/usecases/achievements/get_achievements_usecase.dart';
 
 class AchievementsScreen extends StatelessWidget {

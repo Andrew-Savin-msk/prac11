@@ -1,6 +1,6 @@
 import 'package:mobx/mobx.dart';
 
-import 'package:prac11/domain/entities/goals/goal_model.dart';
+import 'package:prac11/core/models/goals/goal_model.dart';
 import 'package:prac11/domain/usecases/goals/add_goal_usecase.dart';
 
 class AddGoalScreenStore {

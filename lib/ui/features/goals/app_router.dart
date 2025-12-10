@@ -1,5 +1,5 @@
 import 'package:go_router/go_router.dart';
-import 'package:prac11/domain/entities/goals/goal_model.dart';
+import 'package:prac11/core/models/goals/goal_model.dart';
 import 'package:prac11/ui/features/goals/screens/goals_list_screen.dart';
 import 'package:prac11/ui/features/goals/screens/add_goal_screen.dart';
 import 'package:prac11/ui/features/goals/screens/completed_goals_screen.dart';
@@ -13,7 +13,7 @@ import 'package:prac11/ui/features/activity_log/screens/activity_log_screen.dart
 import 'package:prac11/ui/features/focus/screens/focus_session_screen.dart';
 import 'package:prac11/ui/features/tips/screens/tips_list_screen.dart';
 import 'package:prac11/ui/features/tips/screens/tip_detail_screen.dart';
-import 'package:prac11/domain/entities/tips/tip_article_model.dart';
+import 'package:prac11/core/models/tips/tip_article_model.dart';
 import 'package:prac11/ui/features/support/screens/support_screen.dart';
 import 'package:prac11/ui/features/support/screens/about_screen.dart';
 import 'package:prac11/ui/features/support/screens/feedback_screen.dart';

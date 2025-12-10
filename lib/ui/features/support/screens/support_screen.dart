@@ -3,7 +3,7 @@ import 'package:flutter_mobx/flutter_mobx.dart';
 import 'package:go_router/go_router.dart';
 import 'package:prac11/core/di/injection.dart';
 import 'package:prac11/ui/features/support/state/support_screen_store.dart';
-import 'package:prac11/domain/entities/support/faq_item_model.dart';
+import 'package:prac11/core/models/support/faq_item_model.dart';
 import 'package:prac11/domain/usecases/support/get_faq_items_usecase.dart';
 import 'package:prac11/ui/features/goals/app_router.dart';
 

@@ -1,5 +1,5 @@
 import 'package:prac11/data/datasources/account/account_local_datasource.dart';
-import 'package:prac11/domain/entities/account/user_account_model.dart';
+import 'package:prac11/core/models/account/user_account_model.dart';
 import 'package:prac11/domain/repositories/account/account_repository.dart';
 
 class AccountRepositoryImpl implements AccountRepository {

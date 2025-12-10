@@ -1,4 +1,4 @@
-import 'package:prac11/domain/entities/account/user_account_model.dart';
+import 'package:prac11/core/models/account/user_account_model.dart';
 
 abstract class AccountRepository {
   UserAccount? getCurrentUser();

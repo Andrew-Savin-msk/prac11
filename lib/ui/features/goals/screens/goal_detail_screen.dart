@@ -3,7 +3,7 @@ import 'package:flutter_mobx/flutter_mobx.dart';
 import 'package:go_router/go_router.dart';
 
 import 'package:prac11/core/di/injection.dart';
-import 'package:prac11/domain/entities/goals/goal_model.dart';
+import 'package:prac11/core/models/goals/goal_model.dart';
 import 'package:prac11/ui/features/goals/widgets/progress_text.dart';
 import 'package:prac11/ui/features/goals/state/stores/goal_details/goal_detail_screen_store.dart';
 import 'package:prac11/domain/usecases/goals/update_goal_subtasks_usecase.dart';

@@ -1,4 +1,4 @@
-import 'package:prac11/domain/entities/tips/tip_article_model.dart';
+import 'package:prac11/core/models/tips/tip_article_model.dart';
 
 class TipsLocalDataSource {
   final List<TipArticle> _articles = [

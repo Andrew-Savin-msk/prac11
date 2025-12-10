@@ -1,4 +1,4 @@
-import 'package:prac11/domain/entities/focus/focus_session_model.dart';
+import 'package:prac11/core/models/focus/focus_session_model.dart';
 
 class FocusSessionLocalDataSource {
   final List<FocusSession> _sessions = [];

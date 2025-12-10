@@ -1,8 +1,8 @@
 import 'package:prac11/data/datasources/achievements/achievement_local_datasource.dart';
 import 'package:prac11/data/datasources/activity_log/activity_log_local_datasource.dart';
-import 'package:prac11/domain/entities/achievements/achievement_model.dart';
-import 'package:prac11/domain/entities/activity_log/log_entry_model.dart';
-import 'package:prac11/domain/entities/goals/goal_model.dart';
+import 'package:prac11/core/models/achievements/achievement_model.dart';
+import 'package:prac11/core/models/activity_log/log_entry_model.dart';
+import 'package:prac11/core/models/goals/goal_model.dart';
 import 'package:prac11/domain/repositories/achievements/achievement_repository.dart';
 
 class AchievementRepositoryImpl implements AchievementRepository {

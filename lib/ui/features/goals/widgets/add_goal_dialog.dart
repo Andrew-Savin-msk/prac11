@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:prac11/domain/entities/goals/goal_model.dart';
+import 'package:prac11/core/models/goals/goal_model.dart';
 
 class AddGoalDialog extends StatefulWidget {
   const AddGoalDialog({super.key});

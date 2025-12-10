@@ -1,4 +1,4 @@
-import 'package:prac11/domain/entities/account/user_account_model.dart';
+import 'package:prac11/core/models/account/user_account_model.dart';
 import 'package:prac11/domain/repositories/account/account_repository.dart';
 import 'package:prac11/domain/repositories/activity_log/activity_log_repository.dart';
 

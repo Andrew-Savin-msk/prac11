@@ -1,4 +1,4 @@
-import 'package:prac11/domain/entities/goals/goal_model.dart';
+import 'package:prac11/core/models/goals/goal_model.dart';
 import 'package:prac11/domain/repositories/goals/goal_repository.dart';
 import 'package:prac11/domain/repositories/achievements/achievement_repository.dart';
 import 'package:prac11/domain/repositories/activity_log/activity_log_repository.dart';

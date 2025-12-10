@@ -1,6 +1,6 @@
 import 'dart:async';
 import 'package:mobx/mobx.dart';
-import 'package:prac11/domain/entities/focus/focus_session_model.dart';
+import 'package:prac11/core/models/focus/focus_session_model.dart';
 import 'package:prac11/domain/usecases/focus/get_focus_sessions_usecase.dart';
 import 'package:prac11/domain/usecases/focus/add_focus_session_usecase.dart';
 import 'package:prac11/domain/usecases/focus/clear_focus_history_usecase.dart';

@@ -1,4 +1,4 @@
-import 'package:prac11/domain/entities/focus/focus_session_model.dart';
+import 'package:prac11/core/models/focus/focus_session_model.dart';
 import 'package:prac11/domain/repositories/focus/focus_session_repository.dart';
 import 'package:prac11/domain/repositories/activity_log/activity_log_repository.dart';
 

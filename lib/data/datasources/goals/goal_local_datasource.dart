@@ -1,4 +1,4 @@
-import 'package:prac11/domain/entities/goals/goal_model.dart';
+import 'package:prac11/core/models/goals/goal_model.dart';
 
 class GoalLocalDataSource {
   final List<Goal> _goals = [];

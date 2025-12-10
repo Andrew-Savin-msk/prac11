@@ -1,6 +1,6 @@
 import 'package:mobx/mobx.dart';
 
-import 'package:prac11/domain/entities/goals/goal_model.dart';
+import 'package:prac11/core/models/goals/goal_model.dart';
 import 'package:prac11/domain/usecases/goals/get_goals_usecase.dart';
 import 'package:prac11/domain/usecases/goals/delete_goal_usecase.dart';
 

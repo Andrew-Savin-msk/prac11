@@ -1,5 +1,5 @@
 import 'package:mobx/mobx.dart';
-import 'package:prac11/domain/entities/activity_log/log_entry_model.dart';
+import 'package:prac11/core/models/activity_log/log_entry_model.dart';
 import 'package:prac11/domain/usecases/activity_log/get_activity_log_usecase.dart';
 import 'package:prac11/domain/usecases/activity_log/clear_activity_log_usecase.dart';
 
